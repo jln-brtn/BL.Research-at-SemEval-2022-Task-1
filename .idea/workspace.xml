@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4382846a-cf98-431d-bf23-9a64c4416c10" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/SemEval2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SemEval2022.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results_model_En_data.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/char/fr.dev.revdict.json" beforeDir="false" afterPath="$PROJECT_DIR$/submissions/Bi-LSTM + LSTM (vecteur de mots)/char/fr.dev.revdict.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/char/fr.dev.revdict.zip" beforeDir="false" afterPath="$PROJECT_DIR$/submissions/Bi-LSTM + LSTM (vecteur de mots)/char/fr.dev.revdict.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/char/fr.test.revdict.json" beforeDir="false" afterPath="$PROJECT_DIR$/submissions/Bi-LSTM + LSTM (vecteur de mots)/char/fr.test.revdict.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/char/fr.test.revdict.zip" beforeDir="false" afterPath="$PROJECT_DIR$/submissions/Bi-LSTM + LSTM (vecteur de mots)/char/fr.test.revdict.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/char/fr_trial_revdict.json" beforeDir="false" afterPath="$PROJECT_DIR$/submissions/Bi-LSTM + LSTM (vecteur de mots)/char/fr_trial_revdict.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/char/fr_trial_revdict.zip" beforeDir="false" afterPath="$PROJECT_DIR$/submissions/Bi-LSTM + LSTM (vecteur de mots)/char/fr_trial_revdict.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/electra/fr.dev.revdict.json" beforeDir="false" afterPath="$PROJECT_DIR$/submissions/Bi-LSTM + LSTM (vecteur de mots)/electra/fr.dev.revdict.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/electra/fr.dev.revdict.zip" beforeDir="false" afterPath="$PROJECT_DIR$/submissions/Bi-LSTM + LSTM (vecteur de mots)/electra/fr.dev.revdict.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/electra/fr.test.revdict.json" beforeDir="false" afterPath="$PROJECT_DIR$/submissions/Bi-LSTM + LSTM (vecteur de mots)/electra/fr.test.revdict.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/electra/fr.test.revdict.zip" beforeDir="false" afterPath="$PROJECT_DIR$/submissions/Bi-LSTM + LSTM (vecteur de mots)/electra/fr.test.revdict.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/electra/fr.trial.revdict.json" beforeDir="false" afterPath="$PROJECT_DIR$/submissions/Bi-LSTM + LSTM (vecteur de mots)/electra/fr.trial.revdict.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/electra/fr.trial.revdict.zip" beforeDir="false" afterPath="$PROJECT_DIR$/submissions/Bi-LSTM + LSTM (vecteur de mots)/electra/fr.trial.revdict.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/sgns/en_revdict_results_prediction_test.json" beforeDir="false" afterPath="$PROJECT_DIR$/submissions/Bi-LSTM + LSTM (vecteur de mots)/sgns/en_revdict_results_prediction_test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/sgns/es_revdict_results_prediction_test.json" beforeDir="false" afterPath="$PROJECT_DIR$/submissions/Bi-LSTM + LSTM (vecteur de mots)/sgns/es_revdict_results_prediction_test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/sgns/fr_revdict_results_prediction_test.json" beforeDir="false" afterPath="$PROJECT_DIR$/submissions/Bi-LSTM + LSTM (vecteur de mots)/sgns/fr_revdict_results_prediction_test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/sgns/it_revdict_results_prediction_test.json" beforeDir="false" afterPath="$PROJECT_DIR$/submissions/Bi-LSTM + LSTM (vecteur de mots)/sgns/it_revdict_results_prediction_test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/sgns/ru_revdict_results_prediction_test.json" beforeDir="false" afterPath="$PROJECT_DIR$/submissions/Bi-LSTM + LSTM (vecteur de mots)/sgns/ru_revdict_results_prediction_test.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +39,21 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </project>
