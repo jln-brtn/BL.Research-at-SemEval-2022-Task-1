@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SemEval2022.iml" filepath="$PROJECT_DIR$/.idea/SemEval2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../codwoe/.idea/codwoe.iml" filepath="$PROJECT_DIR$/../codwoe/.idea/codwoe.iml" />
     </modules>
   </component>
 </project>
